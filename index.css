@@ -1,5 +1,5 @@
 body {
-    background-color: aliceblue;
+    background-color: brown;
 }
 
 h1 {
@@ -7,17 +7,17 @@ h1 {
 }
 
 .container {
-    max-width: 70%;
+    max-width: 60%;
     margin: auto;
     text-align: center;
 }
 
 .parts {
     margin: auto;
-    margin-top: 10px;
+    margin-top: 20px;
     border: 1px solid;
     padding: 2%;
-    background-color: rgb(235, 240, 244);
+    background-color: rgb(235, 250, 244);
 }
 
 
@@ -45,7 +45,7 @@ h1 {
 
 .submit {
     text-align:left;
-    background-color: rgb(4, 213, 144);
+    background-color: rgb(4, 219, 148);
 }
 div{
     text-align: center;
